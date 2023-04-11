@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "bounded",
+    "editor.insertSpaces": false,
+    "editor.autoIndent": "brackets",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+}
